@@ -7,8 +7,8 @@ popularized in Awesome Profile README template collections. Template references:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4CC9F0,100:F9C74F&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=0B1020&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,55:145DA0,100:7DD3FC&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EAF6FF,55:7DD3FC,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=0B1020&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" />
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" alt="Shuaijun Liu profile banner" />
   </picture>
 </p>
@@ -145,7 +145,7 @@ Archived GitHub stats widgets. Kept for later filtering/reuse.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F9C74F,100:4CC9F0&amp;height=110&amp;section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7DD3FC,55:38BDF8,100:1F6FEB&amp;height=110&amp;section=footer" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:145DA0,100:0B1020&amp;height=110&amp;section=footer" />
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:145DA0,100:0B1020&amp;height=110&amp;section=footer" alt="footer wave" />
   </picture>
