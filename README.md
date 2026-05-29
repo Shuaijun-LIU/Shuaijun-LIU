@@ -26,7 +26,7 @@ popularized in Awesome Profile README template collections. Template references:
 
 ## About
 
-Hi 👋 Shuaijun here, a PhD student at HKUST(GZ) and a member of [NEBULIS Lab](https://nebulis-lab.com), working on Embodied Intelligence, VLA(Vision-Language-Action) models, Robotic Manipulation, and AIoT systems. My current research focuses on reliable decision-making and replanning for embodied agents, with applications in robot manipulation and autonomous maritime robotics.
+Hi 👋 Shuaijun here (Shuaijun Liu, pronounced “shwy-JOON lee-oh”), a PhD student at HKUST(GZ) and a member of [NEBULIS Lab](https://nebulis-lab.com), working on Embodied Intelligence, VLA(Vision-Language-Action) models, Robotic Manipulation, and AIoT systems. My current research focuses on reliable decision-making and replanning for embodied agents, with applications in robot manipulation and autonomous maritime robotics.
 
 - Affiliation: HKUST(GZ), [NEBULIS Lab](https://nebulis-lab.com)
 - Location: Guangdong, China
