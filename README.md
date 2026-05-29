@@ -7,9 +7,9 @@ popularized in Awesome Profile README template collections. Template references:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,55:145DA0,100:7DD3FC&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EAF6FF,55:7DD3FC,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=0B1020&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EAF6FF,55:7DD3FC,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=0B1020&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" alt="Shuaijun Liu profile banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
+    <img width="100%" src="./assets/profile-header-light.svg" alt="Shuaijun Liu profile banner" />
   </picture>
 </p>
 <!-- <p align="center">
@@ -133,17 +133,3 @@ Archived GitHub stats widgets. Kept for later filtering/reuse.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuaijun-LIU&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Shuaijun Liu top languages" />
 </p>
 -->
-
-## Links
-
-<p align="center">
-  <a href="https://shuaijun-liu.github.io/">Website</a> |
-  <a href="https://orcid.org/0000-0002-8443-3713">ORCID</a> |
-  <a href="mailto:shuaijun.liu@outlook.com">Email</a> |
-  <a href="https://github.com/NEBULISLab">NEBULISLab</a><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7DD3FC,55:38BDF8,100:1F6FEB&amp;height=110&amp;section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:145DA0,100:0B1020&amp;height=110&amp;section=footer" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:145DA0,100:0B1020&amp;height=110&amp;section=footer" alt="footer wave" />
-  </picture>
-</p>

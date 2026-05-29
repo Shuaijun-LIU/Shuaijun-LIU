@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Shuaijun Liu profile banner, light theme</title>
+  <desc id="desc">Light profile banner for Shuaijun Liu, Embodied AI, VLA, and Robotic Manipulation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="58%" stop-color="#e0f2fe"/>
+      <stop offset="100%" stop-color="#bfdbfe"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f3d73"/>
+      <stop offset="52%" stop-color="#145da0"/>
+      <stop offset="100%" stop-color="#0b1020"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="72%" cy="18%" r="52%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="260" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#glow)"/>
+  <path d="M0 196 C170 150 340 235 520 190 C720 140 840 158 1000 198 C1090 222 1155 218 1200 206 L1200 260 L0 260 Z" fill="url(#wave)" opacity="0.96"/>
+  <path d="M0 210 C210 174 326 238 520 211 C720 184 858 185 1030 224 C1110 242 1162 236 1200 225 L1200 260 L0 260 Z" fill="#ffffff" opacity="0.28"/>
+  <circle cx="105" cy="82" r="4" fill="#145da0" opacity="0.45"/>
+  <circle cx="1088" cy="76" r="5" fill="#0f766e" opacity="0.42"/>
+  <circle cx="987" cy="124" r="3" fill="#7f1d1d" opacity="0.42"/>
+  <text x="600" y="95" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" fill="#0b1020">Shuaijun Liu (George)</text>
+  <text x="600" y="140" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="500" fill="#0f3d73">Embodied AI | VLA | Robotic Manipulation</text>
+</svg>
