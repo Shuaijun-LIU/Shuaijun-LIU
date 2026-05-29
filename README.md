@@ -9,7 +9,7 @@ popularized in Awesome Profile README template collections. Template references:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,55:145DA0,100:7DD3FC&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EAF6FF,55:7DD3FC,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=0B1020&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" alt="Shuaijun Liu profile banner" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EAF6FF,55:7DD3FC,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=0B1020&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" alt="Shuaijun Liu profile banner" />
   </picture>
 </p>
 <!-- <p align="center">
