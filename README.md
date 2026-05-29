@@ -71,12 +71,59 @@ I am a PhD student at HKUST(GZ), working on embodied intelligence, vision-langua
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
 </p>
 
-## GitHub Activity
+## Profile Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shuaijun-LIU&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6" alt="GitHub profile trophies" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2&amp;section=footer" alt="section divider" />
+</p>
+
+## Animated Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shuaijun-LIU/Shuaijun-LIU/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shuaijun-LIU/Shuaijun-LIU/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Shuaijun-LIU/Shuaijun-LIU/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+## 3D Contribution Map
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution map" />
+</p>
+
+## Research Mode
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=700&amp;color=79C0FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=760&amp;height=96&amp;lines=observe+%E2%86%92+plan+%E2%86%92+act+%E2%86%92+replan;budgeted+reasoning+for+embodied+agents;robotic+systems+that+survive+the+real+world" alt="Research mode typing animation" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Research</h3>
+      <p align="center">Embodied agents, VLA models, budgeted replanning, robotic manipulation, maritime autonomy.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Engineering</h3>
+      <p align="center">Learning systems, robotics software, backend services, data systems, reproducible experiments.</p>
+    </td>
+  </tr>
+</table>
+
+<!--
+Archived GitHub stats widgets. Kept for later filtering/reuse.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shuaijun-LIU&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="Shuaijun Liu GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuaijun-LIU&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Shuaijun Liu top languages" />
 </p>
+-->
 
 ## Links
 
@@ -85,4 +132,8 @@ I am a PhD student at HKUST(GZ), working on embodied intelligence, vision-langua
   <a href="https://orcid.org/0000-0002-8443-3713">ORCID</a> |
   <a href="mailto:shuaijun.liu@outlook.com">Email</a> |
   <a href="https://github.com/NEBULISLab">NEBULISLab</a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:145DA0,100:0B1020&amp;height=110&amp;section=footer" alt="footer wave" />
 </p>
