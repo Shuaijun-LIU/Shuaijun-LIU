@@ -6,11 +6,7 @@ popularized in Awesome Profile README template collections. Template references:
 -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg" />
-    <img width="100%" src="./assets/profile-header-light.svg" alt="Shuaijun Liu profile banner" />
-  </picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" alt="Shuaijun Liu profile banner" />
 </p>
 <!-- <p align="center">
   <a href="https://shuaijun-liu.github.io/">
@@ -38,34 +34,34 @@ Hi 👋 Shuaijun here, a PhD student at HKUST(GZ), working on Embodied Intellige
 - Engineering: Python, PyTorch, ROS, database systems, and backend development
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Embodied%20AI-38BDF8?style=for-the-badge" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Embodied%20AI-0B1020?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Embodied%20AI-0B1020?style=for-the-badge" alt="Embodied AI" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Embodied%20AI-38BDF8?style=plastic" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Embodied%20AI-0B1020?style=plastic" />
+    <img src="https://img.shields.io/badge/Embodied%20AI-0B1020?style=plastic" alt="Embodied AI" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VLA-F97316?style=for-the-badge" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VLA-145DA0?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/VLA-145DA0?style=for-the-badge" alt="VLA" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VLA-F97316?style=plastic" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VLA-145DA0?style=plastic" />
+    <img src="https://img.shields.io/badge/VLA-145DA0?style=plastic" alt="VLA" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/World%20Model-A78BFA?style=for-the-badge" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/World%20Model-4C1D95?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/World%20Model-4C1D95?style=for-the-badge" alt="World Model" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/World%20Model-A78BFA?style=plastic" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/World%20Model-4C1D95?style=plastic" />
+    <img src="https://img.shields.io/badge/World%20Model-4C1D95?style=plastic" alt="World Model" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Robot%20Manipulation-22C55E?style=for-the-badge" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Robot%20Manipulation-065F46?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Robot%20Manipulation-065F46?style=for-the-badge" alt="Robot Manipulation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Robot%20Manipulation-22C55E?style=plastic" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Robot%20Manipulation-065F46?style=plastic" />
+    <img src="https://img.shields.io/badge/Robot%20Manipulation-065F46?style=plastic" alt="Robot Manipulation" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Autonomous%20Agents-F43F5E?style=for-the-badge" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Autonomous%20Agents-7F1D1D?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Autonomous%20Agents-7F1D1D?style=for-the-badge" alt="Autonomous Agents" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Autonomous%20Agents-F43F5E?style=plastic" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Autonomous%20Agents-7F1D1D?style=plastic" />
+    <img src="https://img.shields.io/badge/Autonomous%20Agents-7F1D1D?style=plastic" alt="Autonomous Agents" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AIoT-EAB308?style=for-the-badge" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AIoT-713F12?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/AIoT-713F12?style=for-the-badge" alt="AIoT" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AIoT-EAB308?style=plastic" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AIoT-713F12?style=plastic" />
+    <img src="https://img.shields.io/badge/AIoT-713F12?style=plastic" alt="AIoT" />
   </picture>
 </p>
 
@@ -122,6 +118,51 @@ Hi 👋 Shuaijun here, a PhD student at HKUST(GZ), working on Embodied Intellige
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-FB7185?style=flat-square&amp;logo=linux&amp;logoColor=white" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Linux-7F1D1D?style=flat-square&amp;logo=linux&amp;logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-7F1D1D?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-FACC15?style=flat-square&amp;logo=javascript&amp;logoColor=111827" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-854D0E?style=flat-square&amp;logo=javascript&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-854D0E?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-60A5FA?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-1E3A8A?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-67E8F9?style=flat-square&amp;logo=react&amp;logoColor=111827" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-155E75?style=flat-square&amp;logo=react&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/React-155E75?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-86EFAC?style=flat-square&amp;logo=nodedotjs&amp;logoColor=111827" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-14532D?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-14532D?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-FB923C?style=flat-square&amp;logo=html5&amp;logoColor=white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-7C2D12?style=flat-square&amp;logo=html5&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-7C2D12?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-C084FC?style=flat-square&amp;logo=css3&amp;logoColor=white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-581C87?style=flat-square&amp;logo=css3&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-581C87?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MuJoCo-D1D5DB?style=flat-square&amp;logoColor=111827" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MuJoCo-374151?style=flat-square&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/MuJoCo-374151?style=flat-square&amp;logoColor=white" alt="MuJoCo" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NVIDIA%20Isaac-84CC16?style=flat-square&amp;logo=nvidia&amp;logoColor=111827" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NVIDIA%20Isaac-365314?style=flat-square&amp;logo=nvidia&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/NVIDIA%20Isaac-365314?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="NVIDIA Isaac" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Isaac%20Sim-FDE047?style=flat-square&amp;logo=nvidia&amp;logoColor=111827" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Isaac%20Sim-78350F?style=flat-square&amp;logo=nvidia&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Isaac%20Sim-78350F?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="Isaac Sim" />
   </picture>
 </p>
 
