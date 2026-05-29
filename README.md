@@ -140,10 +140,7 @@ Archived GitHub stats widgets. Kept for later filtering/reuse.
   <a href="https://shuaijun-liu.github.io/">Website</a> |
   <a href="https://orcid.org/0000-0002-8443-3713">ORCID</a> |
   <a href="mailto:shuaijun.liu@outlook.com">Email</a> |
-  <a href="https://github.com/NEBULISLab">NEBULISLab</a>
-</p>
-
-<p align="center">
+  <a href="https://github.com/NEBULISLab">NEBULISLab</a><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7DD3FC,55:38BDF8,100:1F6FEB&amp;height=110&amp;section=footer" />
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:145DA0,100:0B1020&amp;height=110&amp;section=footer" />
