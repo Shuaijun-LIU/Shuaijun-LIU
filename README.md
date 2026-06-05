@@ -6,6 +6,19 @@ popularized in Awesome Profile README template collections. Template references:
 -->
 
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" alt="Shuaijun Liu profile banner" />
+</p>
+<!-- <p align="center">
+  <a href="https://shuaijun-liu.github.io/">
+    <img src="https://img.shields.io/badge/Website-shuaijun--liu.github.io-0B1020?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:shuaijun.liu@outlook.com">
+    <img src="https://img.shields.io/badge/Email-shuaijun.liu%40outlook.com-145DA0?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+</p> -->
+
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Building+Reliable+Embodied+Agents+For+The+Physical+World;Advancing+Vision-Language-Action+Models+For+Robotic+Manipulation;Developing+World+Action+Models+For+Collaborative+Robots" />
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=0F3D73&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Building+Reliable+Embodied+Agents+For+The+Physical+World;Advancing+Vision-Language-Action+Models+For+Robotic+Manipulation;Developing+World+Action+Models+For+Collaborative+Robots" />
