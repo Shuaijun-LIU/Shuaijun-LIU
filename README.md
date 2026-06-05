@@ -6,7 +6,7 @@ popularized in Awesome Profile README template collections. Template references:
 -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" alt="Shuaijun Liu profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,100:145DA0&amp;height=190&amp;section=header&amp;text=Shuaijun%20Liu%20%28George%29&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Embodied%20AI%20%7C%20VLA / WAM%20%7C%20Robotic%20Manipulation&amp;descAlignY=60&amp;animation=fadeIn" alt="Shuaijun Liu profile banner" />
 </p>
 <!-- <p align="center">
   <a href="https://shuaijun-liu.github.io/">
