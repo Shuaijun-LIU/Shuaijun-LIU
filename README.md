@@ -30,8 +30,6 @@ popularized in Awesome Profile README template collections. Template references:
 
 Hi 👋 Shuaijun here (Shuaijun Liu, pronounced “shwy-JOON lee-oh”), a PhD student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) (HKUST-GZ) and a member of [NEBULIS Lab](https://nebulis-lab.com), working on Embodied Intelligence, VLA(Vision-Language-Action) models, Robotic Manipulation, and AIoT systems. My current research focuses on reliable decision-making and replanning for embodied agents, with applications in robot manipulation and autonomous maritime robotics.
 
-- Affiliation: [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), [NEBULIS Lab](https://nebulis-lab.com)
-- Engineering: Python, PyTorch, ROS, database systems, and backend development
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Embodied%20AI-38BDF8?style=plastic" />
